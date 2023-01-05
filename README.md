@@ -7,3 +7,4 @@ Olá, eu sou Ângelo Mazarin estudante de engenharia de software pela UFMS
 - 🐱‍👤 Sobre mim: Para mim os principais valores são a resiliência e a busca por aprimoramento. Seguindo a filosofia de Mark Manson que é 
 conquistar a melhor versão de mim mesmo por meio da escolha do sofrimento correto, humildade, trabalho duro e dar a volta por cima sem
 prejudicar ninguem.
+- ⌚ Disponibilidade de horário: 6h00 ao 12h00 
