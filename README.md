@@ -1,6 +1,6 @@
 Olá, eu sou Ângelo Mazarin estudante de engenharia de software pela UFMS 
 
-- 🌱 Conhecimentos em aprimoramento: C, javaScript, Java e Python.
+- 🌱 Conhecimentos em aprimoramento: C#, C, javaScript, Java e Python.
 - 🤔 Buscando estágio com intuito de aprender e me desafiar, além de somar à empresa meu esforço e trabalho duro.
 - 📫 Contato via e-mail: angelotrab22@gmail.com 
 - 📫 Contato via WhatsApp: 67981633665
