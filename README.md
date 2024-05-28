@@ -1,6 +1,6 @@
 Olá, eu sou Ângelo Mazarin estudante de engenharia de software pela UFMS
 
-🌱 Conhecimentos em aprimoramento: C#, C, C++, javaScript, Java e Python.
+🌱 Conhecimentos em aprimoramento: PHP slimframework, Angular js, react - NextJs, .
 
 🤔 Buscando estágio com intuito de aprender e me desafiar, além de somar à empresa meu esforço e trabalho duro.
 
