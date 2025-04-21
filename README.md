@@ -1,8 +1,6 @@
 Olá, eu sou Ângelo Mazarin estudante de engenharia de software pela UFMS
 
-🌱 Conhecimentos em aprimoramento: PHP slimframework, Angular js, react - NextJs, .
-
-🤔 Buscando estágio com intuito de aprender e me desafiar, além de somar à empresa meu esforço e trabalho duro.
+🌱 Conhecimentos em aprimoramento: PHP, nodeJS, Angular js, NextJs, .
 
 📫 Contato via e-mail: angelotrab22@gmail.com
 
